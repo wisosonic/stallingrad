@@ -1,0 +1,73 @@
+.gameAvatar {
+    width:50%; 
+    border-radius: 50%;
+}
+.gameAvatarInstallation {
+    border-radius: 50%;
+}
+
+.right {
+    float:right;
+}
+.canvas {
+    float:left;
+    margin-right: 10px;
+    border:1px solid #000;
+}
+.tower {
+    font-size: 14px;
+    color:white;
+    display:inline-block;
+    padding: 5px;
+    border: 1px solid;
+    cursor: pointer;
+}
+.swal2-styled {
+    margin: 0 5px !important;
+}
+
+.noPaddingTop {
+    padding-top: 0px;
+}
+.noPaddingBottom {
+    padding-bottom: 0px;
+}
+
+.NoMarginRight {
+    margin-right:0px;
+}
+
+.bgOrange {
+    background-color: orange;
+}
+
+.bgBrown {
+    background-color: brown;
+}
+
+.bgAqua {
+    background-color: aqua;
+    color:black;
+}
+
+.bgYellow {
+    background-color: yellow;
+    color:black;
+}
+
+.bgBlue {
+    background-color: blue; 
+}
+
+.savedGamesMap {
+    border:1px solid black; width:70%;
+}
+
+#pause_icon {
+    position:absolute; padding: 200px;
+}
+
+#savedgames {
+    width:100%;
+}
+
